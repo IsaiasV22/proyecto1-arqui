@@ -2,7 +2,7 @@
 
 Explorador del medallero de los Juegos Olímpicos de Verano, construido con Nuxt 4 + `@nuxt/content`, para el curso EIF-511 Arquitectura de Información (Universidad Nacional, Escuela de Informática).
 
-**Sitio desplegado:** _pendiente de despliegue en Netlify_
+**Sitio desplegado:** <https://proyecto1-arqui-isaiasviquez.netlify.app>
 
 ## Conjunto de datos
 
