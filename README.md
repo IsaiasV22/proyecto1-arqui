@@ -32,4 +32,4 @@ Generación estática (usada para el despliegue en Netlify):
 npm run generate
 ```
 
-El resultado se genera en `.output/public`.
+El resultado se genera en `dist/`.
